@@ -1,1 +1,2 @@
 image::2024-03-15 23-54-22.gif[]
+video::https://github.com/t0mri/cya/assets/123792488/39e7e710-4c3d-4f3b-8912-cc2ae67aa334[]
